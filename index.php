@@ -13,8 +13,10 @@ and open the template in the editor.
         <?php
             // setup the autoloading
             require_once 'FST/vendor/autoload.php';
-            // setup Propel
+            // setup Propel 
             require_once 'FST/generated-conf/config.php';
+            
+            //blablablablabla
             
             /*CRUD*/
             echo '<h4>Basic CRUD implementation with Propel</h4><br/>';
