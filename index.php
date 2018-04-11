@@ -18,6 +18,8 @@ and open the template in the editor.
             
             //blablablablabla
             
+            //test nr 2
+            
             /*CRUD*/
             echo '<h4>Basic CRUD implementation with Propel</h4><br/>';
             
