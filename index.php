@@ -20,6 +20,8 @@ and open the template in the editor.
             
             //test nr 2
             
+            //MAxi King
+            
             /*CRUD*/
             echo '<h4>Basic CRUD implementation with Propel</h4><br/>';
             
